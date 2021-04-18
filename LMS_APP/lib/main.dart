@@ -11,7 +11,7 @@ class LmsApp extends StatelessWidget {
       title: "Leave Managment System",
       home: HomePage(),
     );
-    return materialApp;
+    return MaterialApp;
   }
 }
 
