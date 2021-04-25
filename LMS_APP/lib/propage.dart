@@ -11,7 +11,7 @@ class ProPage extends StatelessWidget {
             height: MediaQuery.of(context).size.height / 3,
             fit: BoxFit.cover,
             image: NetworkImage(
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimcMTNHu5ED5E6ws_kXyRXg43by6hKmrqsw&usqp=CAU'),
+                'https://scontent.fhyd2-1.fna.fbcdn.net/v/t31.18172-8/14311282_178739492552710_8625234891386915709_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=kDS_2aA1upYAX_x5WWS&_nc_ht=scontent.fhyd2-1.fna&oh=fddaa55b7f297d2ed7923100007a0333&oe=60AAA34A'),
           ),
         ],
       ),
